@@ -1,0 +1,7 @@
+{
+  "signals": [
+    "EMS11.N", "EMS11.VS", "EMS12.TEMP_ENG", "EMS12.TPS",
+    "EMS15.IntAirTemp", "EMS14.VB", "ESP12.LONG_ACCEL", "EMS16.TQI",
+    "EMS12.PV_AV_CAN", "EMS12.BRAKE_ACT", "TCS11.ESS_STAT", "TCS11.TQI_TCS"
+  ]
+}

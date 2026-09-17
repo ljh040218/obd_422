@@ -1,0 +1,5 @@
+cantools==44.0.0
+asammdf==8.8.27
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2

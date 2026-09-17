@@ -1,0 +1,147 @@
+﻿message,can_id_hex,can_id_decimal,is_extended_frame,frame_bytes,senders,receivers,cycle_time_ms,comment,source_dbc,source_sha256
+ODS13,0x5FC,1532,False,5,"[""ODS""]","[""ACU"", ""Dummy""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ODS12,0x5FB,1531,False,8,"[""ODS""]","[""ACU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ODS11,0x5FA,1530,False,8,"[""ODS""]","[""ACU"", ""BCM"", ""Dummy""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ECS12,0x3F9,1017,False,4,"[""ECS""]","[""AFLS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SPAS12,0x4F4,1268,False,8,"[""SPAS""]","[""AVM"", ""BCM"", ""CLU"", ""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU11,0x4F1,1265,False,4,"[""CLU""]","[""AHLS"", ""AVM"", ""BCM"", ""CUBIS"", ""EMS"", ""EPB"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""MDPS"", ""PGS"", ""SCC"", ""SPAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+Sign_Detection,0x4EC,1260,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TMU_GW_PE_01,0x5D4,1492,False,8,"[""CLU""]","[""DATC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_DATC_PE_00,0x5D3,1491,False,8,"[""CLU""]","[""DATC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_DATC_E_02,0x5D2,1490,False,8,"[""CLU""]","[""DATC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS21,0x5C7,1479,False,8,"[""EMS""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_Warning_PE,0x5C0,1472,False,8,"[""BCM""]","[""CLU"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CAL_SAS11,0x7C0,1984,False,2,"[""ESC""]","[""SAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU12,0x5B0,1456,False,4,"[""CLU""]","[""AAF"", ""BCM"", ""CUBIS"", ""EMS"", ""EPB"", ""IBOX"", ""LDWS_LKAS"", ""SCC"", ""TPMS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SAS11,0x2B0,688,False,5,"[""MDPS""]","[""ACU"", ""AFLS"", ""AVM"", ""BCM"", ""CLU"", ""ECS"", ""EMS"", ""ESC"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""PGS"", ""PSB"", ""SCC"", ""SPAS"", ""TCU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ACU12,0x5A1,1441,False,8,"[""ACU""]","[""ODS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ACU11,0x5A0,1440,False,8,"[""ACU""]","[""BCM"", ""CLU"", ""CUBIS"", ""IBOX"", ""ODS"", ""PSB"", ""TMU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+AHLS11,0x59D,1437,False,8,"[""AHLS""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+PSB11,0x59A,1434,False,2,"[""PSB""]","[""CLU"", ""Dummy""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCS13,0x394,916,False,8,"[""ESC""]","[""BCW"", ""CLU"", ""EMS"", ""SCC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TPMS11,0x593,1427,False,6,"[""BCM""]","[""CLU"", ""CUBIS"", ""HUD"", ""IBOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCS12,0x393,915,False,4,"[""ESC""]","[""ACU"", ""MDPS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS19,0x492,1170,False,8,"[""EMS""]","[""AAF"", ""ABS"", ""CLU"", ""CUBIS"", ""ECS"", ""EPB"", ""ESC"", ""IBOX"", ""MDPS"", ""REA"", ""SCC"", ""SMK"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+AFLS11,0x591,1425,False,2,"[""AFLS""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SPAS11,0x390,912,False,7,"[""SPAS""]","[""CGW"", ""CLU"", ""ESC"", ""MDPS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EPB11,0x490,1168,False,7,"[""EPB""]","[""BCM"", ""CLU"", ""CUBIS"", ""EMS"", ""ESC"", ""IBOX"", ""SCC"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS_H12,0x18F,399,False,8,"[""EMS""]","[""ABS"", ""AEMC"", ""BCM"", ""CLU"", ""DATC"", ""EPB"", ""ESC"", ""IBOX"", ""LDWS_LKAS"", ""MDPS"", ""SMK"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LCA11,0x58B,1419,False,8,"[""LCA""]","[""BCM"", ""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ABS11,0x38A,906,False,8,"[""ABS""]","[""ACU"", ""BCM"", ""CLU"", ""CUBIS"", ""EMS"", ""EPB"", ""MTS"", ""SPAS"", ""TCU"", ""TMU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+WHL_PUL11,0x387,903,False,6,"[""ABS""]","[""CUBIS"", ""EPB"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""SPAS"", ""TMU"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TMU11,0x587,1415,False,8,"[""IBOX""]","[""DATC"", ""EMS"", ""FATC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+WHL_SPD11,0x386,902,False,8,"[""ABS""]","[""ACU"", ""AFLS"", ""AHLS"", ""AVM"", ""BCM"", ""CLU"", ""CUBIS"", ""ECS"", ""EMS"", ""EPB"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""LPI"", ""PGS"", ""PSB"", ""SCC"", ""SMK"", ""SPAS"", ""TCU"", ""TMU"", ""TPMS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EVP11,0x586,1414,False,3,"[""EVP""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+AAF11,0x584,1412,False,8,"[""AAF""]","[""AAF_Tester"", ""CLU"", ""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS17,0x384,900,False,8,"[""EMS""]","[""DI_BOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+REA11,0x183,387,False,8,"[""REA""]","[""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CUBIS11,0x583,1411,False,8,"[""CUBIS""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FATC11,0x383,899,False,8,"[""DATC""]","[""AAF"", ""AHLS"", ""BCM"", ""CLU"", ""EMS"", ""IBOX"", ""SPAS"", ""TCU"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS_DCT12,0x081,129,False,8,"[""EMS""]","[""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FCEV_ACCELERATOR,0x091,145,False,8,"[""XXX""]","[""XXX""]",,Contains signal with accelerator pedal press. Used by fuel cell hydrogen-powered (FCEV) cars such as the 2021 Hyundai Nexo.,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+MDPS11,0x381,897,False,8,"[""MDPS""]","[""CLU"", ""CUBIS"", ""EMS"", ""IBOX"", ""LDWS_LKAS"", ""SPAS"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DI_BOX13,0x380,896,False,8,"[""DI_BOX""]","[""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS13,0x280,640,False,8,"[""EMS""]","[""BCM"", ""CLU"", ""LPI"", ""SMK""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS_DCT11,0x080,128,False,8,"[""EMS""]","[""IBOX"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_MON_PE_01,0x57F,1407,False,8,"[""CLU""]","[""AVM"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW5,0x07F,127,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ESP11,0x47F,1151,False,6,"[""ESC""]","[""EMS"", ""EPB"", ""TCU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_AVM_E_00,0x575,1397,False,8,"[""CLU""]","[""AVM"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_AVM_E_01,0x573,1395,False,8,"[""CLU""]","[""AVM"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+OPI11,0x571,1393,False,5,"[""OPI""]","[""EMS"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LPI11,0x271,625,False,8,"[""LPI""]","[""BCM"", ""CLU"", ""EMS"", ""SMK""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+VSM11,0x164,356,False,4,"[""ESC""]","[""LDWS_LKAS"", ""MDPS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+PGS_HU_PE_01,0x563,1379,False,8,"[""PGS""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU_DCT13,0x162,354,False,3,"[""TCU""]","[""CLU"", ""ESC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HUD11,0x562,1378,False,4,"[""HUD""]","[""BCM"", ""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS16,0x260,608,False,8,"[""EMS""]","[""ABS"", ""AHLS"", ""AVM"", ""BCM"", ""CLU"", ""DATC"", ""ECS"", ""EPB"", ""ESC"", ""EVP"", ""FPCM"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""MDPS"", ""SCC"", ""SMK"", ""TCU"", ""_4WD""]",,"E_EMS11: All (plug-in) hybrids use this gas signal: CR_Vcu_AccPedDep_Pos, and all EVs use the Accel_Pedal_Pos signal. See hyundai/values.py for a specific car list",hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+AVM_HU_PE_00,0x55B,1371,False,8,"[""AVM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_AVM_PE_00,0x55A,1370,False,8,"[""CLU""]","[""AVM"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW4,0x559,1369,False,8,"[""BCM""]","[""CLU"", ""Dummy"", ""HUD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EngFrzFrm12,0x557,1367,False,8,"[""EMS""]","[""AAF"", ""IBOX"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EngFrzFrm11,0x556,1366,False,8,"[""EMS""]","[""AAF"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FPCM11,0x555,1365,False,8,"[""FPCM""]","[""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LVR12,0x367,871,False,8,"[""LVR""]","[""CLU"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LVR11,0x368,872,False,8,"[""LVR""]","[""BCM"", ""CLU"", ""SMK"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW2,0x553,1363,False,8,"[""BCM""]","[""AFLS"", ""AVM"", ""CLU"", ""Dummy"", ""EMS"", ""LCA"", ""LDWS_LKAS"", ""PGS"", ""SNV"", ""SPAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCS11,0x153,339,False,8,"[""ESC""]","[""ACU"", ""BCM"", ""CGW"", ""CLU"", ""ECS"", ""EMS"", ""EPB"", ""LDWS_LKAS"", ""SCC"", ""SPAS"", ""TCU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SNV11,0x552,1362,False,4,"[""SNV""]","[""BCM"", ""CLU"", ""HUD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+MDPS12,0x251,593,False,8,"[""MDPS""]","[""ESC"", ""LDWS_LKAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+IAP11,0x550,1360,False,3,"[""IAP""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU_DCT14,0x54C,1356,False,8,"[""TCU""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+BAT11,0x549,1353,False,8,"[""EMS""]","[""CGW"", ""CUBIS"", ""IBOX"", ""TMU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS15,0x547,1351,False,8,"[""EMS""]","[""ACU"", ""CLU"", ""ECS"", ""EPB"", ""ESC"", ""IBOX"", ""LDWS_LKAS"", ""SCC"", ""TCU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DI_BOX12,0x546,1350,False,8,"[""DI_BOX""]","[""EMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS14,0x545,1349,False,8,"[""EMS""]","[""CGW"", ""CLU"", ""CUBIS"", ""DATC"", ""EPB"", ""FPCM"", ""IBOX"", ""TCU"", ""TMU"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DATC11,0x044,68,False,8,"[""DATC""]","[""BCM"", ""CLU"", ""FPCM""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DATC13,0x043,67,False,8,"[""DATC""]","[""CLU"", ""IBOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DATC12,0x042,66,False,8,"[""DATC""]","[""CLU"", ""IBOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW1,0x541,1345,False,8,"[""BCM""]","[""ABS"", ""AFLS"", ""AVM"", ""CLU"", ""DATC"", ""ECS"", ""EMS"", ""EPB"", ""ESC"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""LVR"", ""MDPS"", ""PGS"", ""PSB"", ""SAS"", ""SCC"", ""SMK"", ""SNV"", ""SPAS"", ""TCU"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+DATC14,0x040,64,False,8,"[""DATC""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LKAS11,0x340,832,False,8,"[""LDWS_LKAS""]","[""ABS"", ""BCM"", ""CGW"", ""CLU"", ""ESC"", ""IBOX"", ""MDPS"", ""PSB"", ""SCC"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LKAS12,0x53E,1342,False,6,"[""LDWS_LKAS""]","[""BCM"", ""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TMU_GW_E_01,0x53A,1338,False,8,"[""CLU""]","[""BCM""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+PAS11,0x436,1078,False,4,"[""BCM""]","[""AVM"", ""CLU"", ""Dummy"", ""PGS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS18,0x030,48,False,6,"[""EMS""]","[""DI_BOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU15,0x52A,1322,False,8,"[""CLU""]","[""BCM"", ""CGW"", ""FATC"", ""HUD"", ""PGS"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+_4WD13,0x42A,1066,False,6,"[""_4WD""]","[""ESC"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+_4WD12,0x429,1065,False,8,"[""_4WD""]","[""ESC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS12,0x329,809,False,8,"[""EMS""]","[""AAF"", ""ABS"", ""ACU"", ""AFLS"", ""BCM"", ""CLU"", ""DATC"", ""ECS"", ""EPB"", ""ESC"", ""FATC"", ""IAP"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""SCC"", ""SMK"", ""TCU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+_4WD11,0x428,1064,False,8,"[""_4WD""]","[""ABS"", ""ACU"", ""CLU"", ""ESC"", ""TCU"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_GW_E_01,0x527,1319,False,8,"[""CLU""]","[""BCM""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HU_GW_E_00,0x526,1318,False,8,"[""CLU""]","[""BCM""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_HU_E_01,0x525,1317,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_HU_E_00,0x524,1316,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_SWRC_PE,0x523,1315,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_IPM_PE_1,0x522,1314,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SCC12,0x421,1057,False,8,"[""SCC""]","[""CLU"", ""CUBIS"", ""EPB"", ""ESC"", ""IAP"", ""IBOX"", ""PSB"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+GW_DDM_PE,0x521,1313,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SCC11,0x420,1056,False,8,"[""SCC""]","[""ABS"", ""CLU"", ""EMS"", ""ESC"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW3,0x520,1312,False,8,"[""BCM""]","[""AAF"", ""CLU"", ""DATC"", ""EMS"", ""SPAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ESP12,0x220,544,False,8,"[""ESC""]","[""AFLS"", ""ECS"", ""EMS"", ""EPB"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""LPI"", ""MDPS"", ""PSB"", ""SCC"", ""SPAS"", ""TCU"", ""TMU"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU16,0x51B,1307,False,8,"[""CLU""]","[""BCM"", ""LDWS_LKAS"", ""TPMS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS11,0x316,790,False,8,"[""EMS""]","[""AAF"", ""ABS"", ""ACU"", ""AFLS"", ""AHLS"", ""BCM"", ""CLU"", ""CUBIS"", ""DATC"", ""DI_BOX"", ""ECS"", ""EPB"", ""ESC"", ""FPCM"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""LVR"", ""MDPS"", ""ODS"", ""REA"", ""SAS"", ""SCC"", ""SMK"", ""SPAS"", ""TCU"", ""TPMS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU14,0x515,1301,False,8,"[""CLU""]","[""AFLS"", ""BCM"", ""DATC"", ""ESC"", ""LCA"", ""LDWS_LKAS"", ""SCC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU13,0x113,275,False,8,"[""TCU""]","[""CLU"", ""CUBIS"", ""DATC"", ""EMS"", ""EPB"", ""ESC"", ""IBOX"", ""LVR"", ""SCC"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU12,0x112,274,False,8,"[""TCU""]","[""BCM"", ""CLU"", ""DATC"", ""EMS"", ""ESC"", ""IBOX"", ""LCA"", ""LVR"", ""PGS"", ""SCC"", ""SMK"", ""SNV"", ""TPMS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU11,0x111,273,False,8,"[""TCU""]","[""AAF"", ""AFLS"", ""AVM"", ""BCM"", ""CGW"", ""CLU"", ""CUBIS"", ""ECS"", ""EMS"", ""EPB"", ""ESC"", ""IAP"", ""IBOX"", ""LCA"", ""LDWS_LKAS"", ""LVR"", ""MDPS"", ""PGS"", ""SCC"", ""SMK"", ""SNV"", ""SPAS"", ""TPMS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ACU13,0x010,16,False,8,"[""ACU""]","[""CUBIS"", ""IBOX"", ""ODS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CGW_USM1,0x410,1040,False,8,"[""BCM""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU13,0x50C,1292,False,8,"[""CLU""]","[""ACU"", ""BCM"", ""CGW"", ""CUBIS"", ""DATC"", ""ECS"", ""EMS"", ""ESC"", ""FPCM"", ""IAP"", ""IBOX"", ""LDWS_LKAS"", ""MDPS"", ""SCC"", ""TCU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SCC13,0x50A,1290,False,8,"[""SCC""]","[""CLU"", ""ESC"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCS15,0x507,1287,False,4,"[""ESC""]","[""ACU"", ""CLU"", ""CUBIS"", ""EPB"", ""IBOX"", ""SCC"", ""SPAS"", ""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+TCU14,0x502,1282,False,4,"[""TCU""]","[""CLU"", ""EMS"", ""ESC"", ""LVR""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ECS11,0x501,1281,False,3,"[""ECS""]","[""CLU"", ""CUBIS"", ""IBOX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+CLU_CFG11,0x400,1024,False,2,"[""CLU""]","[""_4WD""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ACU14,0x500,1280,False,1,"[""ACU""]","[""BCM"", ""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS20,0x200,512,False,6,"[""EMS""]","[""FPCM"", ""IBOX"", ""XXX""]",,Contains signal with gear shifter. Used by fuel cell hydrogen-powered (FCEV) cars such as the 2021 Hyundai Nexo.,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FCA11,0x38D,909,False,8,"[""FCA""]","[""ACU"", ""CLU"", ""ESC"", ""XXX"", ""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+HDA11_MFC,0x484,1156,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FCA12,0x483,1155,False,8,"[""FCA""]","[""CGW"", ""CLU"", ""ESC""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+FRT_RADAR11,0x4A2,1186,False,2,"[""FCA""]","[""ESC"", ""LDWS_LKAS"", ""LDW_LKA""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+SCC14,0x389,905,False,8,"[""SCC""]","[""CLU"", ""ESC"", ""HUD"", ""LDWS_LKAS""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LFAHDA_MFC,0x485,1157,False,4,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+BCM_PO_11,0x391,913,False,8,[],"[""PT_ESC_ABS"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+LABEL11,0x592,1426,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+WHL_SPD12_FS,0x38E,910,False,5,"[""iBAU""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+WHL_SPD13_FS,0x38F,911,False,5,"[""iBAU""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ADAS_PRK_11,0x361,865,False,8,"[""ADAS_PRK""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ELECT_GEAR,0x372,882,False,8,"[""XXX""]","[""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+E_EMS11,0x371,881,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EV_PC6,0x54B,1355,False,8,"[""CGW""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EV_PC2,0x596,1430,False,8,"[""CGW""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EV_PC10,0x5FF,1535,False,8,"[""CGW""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+RSPA11,0x38C,908,False,8,"[""RSPA""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+S_MDPS11,0x392,914,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+S_MDPS12,0x165,357,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+AHB1,0x160,352,False,8,"[""iBAU""]","[""CGW"", ""CLU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+MFC_4a7,0x4A7,1191,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+BCA11,0x48A,1162,False,8,"[""BCW""]","[""CLU"", ""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+P_STS,0x470,1136,False,8,"[""CGW""]","[""BCW"", ""EPB"", ""FCA"", ""MDPS"", ""SCC"", ""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+YRS11,0x130,304,False,8,"[""ACU""]","[""CGW"", ""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+YRS12,0x140,320,False,8,"[""ACU""]","[""CGW"", ""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+YRS13,0x495,1173,False,8,"[""ACU""]","[""iBAU""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+EMS_366,0x366,870,False,8,"[""EMS""]","[""MDPS"", ""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+M_356,0x356,854,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+ICM_412h,0x412,1042,False,8,"[""ICM""]",[],,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
+Navi_HU,0x544,1348,False,8,"[""XXX""]","[""XXX""]",,,hyundai_kia_generic.dbc,b6c4a670ceaaacd5ff6326c9f2148df57138200b44513cce6848d951b135be0d
